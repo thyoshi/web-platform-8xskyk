@@ -1,3 +1,58 @@
-body {
-  background:linear-gradient(180deg, #ff000)
+*{
+   font-family: 'Roboto Slab', serif;
+   }
+
+   body {
+    background: linear-gradient(180deg, #0f0c29 -11.94%, #302B63, 51.32%, #24243E 113.28%)
+    }
+
+
+    p {
+      font-weight: 20px;
+        color: white;
+          margin-top: 25px;
+            text-align: center;
+            }
+            h1{
+              font-size: 34px;
+                font-weight: bold;
+                  text-align: center;
+                    color: white;
+                      margin-bottom: 165px;
+                      }
+                      input{
+                        width: 342px;
+                          height: 74px;
+                            margin-bottom: 16px;
+                              font-weight: 500;
+                                font-size: 17px;
+                                  padding-left: 26px; 
+                                    display: block;
+                                      margin-left: auto;
+                                        margin-right: auto;
+                                          outline: none;
+                                          }
+                                          button{
+                                            display: block;
+                                              margin-left: auto;
+                                                margin-right: auto;
+                                                  background:black; 
+                                                    color: white;
+                                                      width: 342px;
+                                                        height: 74px;
+                                                          font-weight: bold;
+                                                            font-size: 16px;
+                                                              outline: none;
+                                                                cursor: pointer;
+                                                                }
+                                                                button-active{
+                                                                  opacity: 0.6;
+                                                                  }
+                                                                  a{
+                                                                    margin-top: 174px;
+                                                                      color: white;
+                                                                        display:block;
+                                                                          text-align: center;
+                                                                            font-size: 14px;  
+                                                                            }
 }
